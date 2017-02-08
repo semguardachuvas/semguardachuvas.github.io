@@ -1,0 +1,25 @@
+frase {
+position: absolute;
+color: #fff;
+bottom: 6%;
+text-align: center !important;
+margin-left: 50px;
+font: italic 30px Georgia;
+text-shadow: 1px 1px 5px #444;
+}
+
+texto {
+font: italic 17px georgia;
+border: 2px solid #000;
+text-transform: lowercase;
+width: 20%;
+padding: 5%;
+color: #000;
+margin-top: 15%;
+position: absolute;
+margin-left: 5%;
+background: rgba(255, 255, 255, 0.16);
+text-align: center;
+text-shadow: 1px 1px 20px #fff;
+letter-spacing: 1px;
+}
